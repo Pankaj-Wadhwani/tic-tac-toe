@@ -58,6 +58,38 @@
     left: 130px;
     color: white;
 }
+
+#numplayer {
+    display: inline-block;
+    width: 100px;
+    height: 38px;
+    background: red;
+    margin: 5px auto;
+    line-height: 38px;
+    border-radius: 3px;
+    box-shadow: 0px 4px rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    position: fixed;    
+    top: 350px;
+    left: 130px;
+    color: white;
+}
+
+#numplayer2 {
+    display: inline-block;
+    width: 100px;
+    height: 38px;
+    background: red;
+    margin: 5px auto;
+    line-height: 38px;
+    border-radius: 3px;
+    box-shadow: 0px 4px rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    position: fixed;    
+    top: 450px;
+    left: 130px;
+    color: white;
+}
 .clearfix{
     clear: both;
 }
